@@ -16,4 +16,4 @@ Alamat  : Perum. Paradise<br>
 Universitas : [uin suska riau](http://uin-suska.ac.id)<br>
 jurusan : [sistem informasi](http://sif.uin-suska.ac.id)<br>
 
-<img src="/assets/IMG_20160514_110719.jpg/"<br>
+<img src="/assets/IMG_20160514_110719.jpg"><br>
