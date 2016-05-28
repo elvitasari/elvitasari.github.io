@@ -13,6 +13,7 @@ image:
 Nama    : ELVITA SARI<br>
 Nim     : 11353205430<br>
 Alamat  : Perum. Paradise<br>
+Motto   : mimpi tidak akan terwujud tanpa ada perbuatan<br>
 Universitas : [uin suska riau](http://uin-suska.ac.id)<br>
 jurusan : [sistem informasi](http://sif.uin-suska.ac.id)<br>
 
