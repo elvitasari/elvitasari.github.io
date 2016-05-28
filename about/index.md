@@ -9,9 +9,11 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-##BIODATA
+BIODATA
 Nama    : ELVITA SARI<br>
 Nim     : 11353205430<br>
 Alamat  : Perum. Paradise<br>
+Universitas : [uin suska riau](http://uin-suska.ac.id)<br>
 jurusan : [sistem informasi](http://sif.uin-suska.ac.id)<br>
-<img src="/assets/IMG_20160514_110719.jpg><br>
+
+<img src="/assets/IMG_20160514_110719.jpg/"<br>
